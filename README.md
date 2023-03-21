@@ -1,4 +1,5 @@
 # Python Crash Course For Civil Engineers
  
-Dr. Aydın DEMİR
+Dr. Aydin Demir
+
 www.aydindemir.com | instagram: @dr.aydindemir
